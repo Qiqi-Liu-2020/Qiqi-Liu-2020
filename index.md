@@ -5,15 +5,15 @@
 ### Marketing Analytics 
 
 [Beech-Nut Pouch Puree](https://drive.google.com/file/d/1yoZXce-83KWPtZ4gOcduoqavC_AEzSWu/view?usp=sharing/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BN.jpg?raw=true"/>
 
 ---
 [Marketing Mix Modeling](https://drive.google.com/file/d/1GcOTSna8l1apJi5daT5YC9J176bdgShZ/view?usp=sharing/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MMM.png?raw=true"/>
 
 ---
 [Time Series Forecasting](https://drive.google.com/file/d/1mX30dLRRIIeHFpol_1jeNt1aVTMsoiuY/view?usp=sharing/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/nintendo-switch.jpg?raw=true"/>
 
 ---
 
