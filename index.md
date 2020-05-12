@@ -21,7 +21,7 @@
 
 - [Toy Horse Conjoint Analysis](https://drive.google.com/file/d/1a_CxOhmU4BklKAEndo-BFCgmabscbmea/view?usp=sharing/)
 - [Yoguit Turf Analysis](https://drive.google.com/file/d/1Ye4uCHFlDbfVuGbObRXmYxSOTf9ZAPF4/view?usp=sharing/)
-- [Wine Retailer AB Testing](https://drive.google.com/file/d/1P-BoBBhvmDirX0x50DDeyIjxXcxPQxX3/view?usp=sharing/)
+- [Wine Retailer A/B Testing](https://drive.google.com/file/d/1P-BoBBhvmDirX0x50DDeyIjxXcxPQxX3/view?usp=sharing/)
 - [Predict Beer Profit Case Study](https://drive.google.com/file/d/1qRCc8SCHjKtMi156ymOuEZpBSk_7mWTi/view?usp=sharing/)
 
 ---
