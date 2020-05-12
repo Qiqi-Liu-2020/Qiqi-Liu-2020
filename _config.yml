@@ -1,11 +1,10 @@
 title: Qiqi Liu # your name (or website title) here
 logo: "/images/QiqiLiu.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A MS Marketing Analytics student at Simon Business School with an interest in marketing, digital marketing and data science. Seeking a summer internship to apply my experience designing campaigns to increase web traffic,  building Marketing Mix Model, creating a KPI dashboard and utilizing Google Analytics to optimize media plan, and detecting emerging trends of food consumption from Facebook data in Python.
+  A MS Marketing Analytics student at Simon Business School with an interest in marketing, digital marketing and data science. 
   <br><br>
   Specialties: SQL, Tableau, R, Python, Advanced Excel, Google Analytics, A/B Testing, Linear Regression, Logistic Regression, Cluster Analysis
   <br><br>
- 
   <a href="https://www.linkedin.com/in/qiqi-liu/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
