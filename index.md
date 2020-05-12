@@ -2,28 +2,27 @@
 
 ---
 
-### Category Name 1 
+### Marketing Analytics 
 
-[Project 1 Title](/sample_page)
+[Beech-Nut Pouch Puree](https://drive.google.com/file/d/1yoZXce-83KWPtZ4gOcduoqavC_AEzSWu/view?usp=sharing/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Marketing Mix Modeling](https://drive.google.com/file/d/1GcOTSna8l1apJi5daT5YC9J176bdgShZ/view?usp=sharing/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Time Series Forecasting](https://drive.google.com/file/d/1mX30dLRRIIeHFpol_1jeNt1aVTMsoiuY/view?usp=sharing/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Business Analytics 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Toy Horse Conjoint Analysis](https://drive.google.com/file/d/1a_CxOhmU4BklKAEndo-BFCgmabscbmea/view?usp=sharing/)
+- [Yoguit Turf Analysis](https://drive.google.com/file/d/1Ye4uCHFlDbfVuGbObRXmYxSOTf9ZAPF4/view?usp=sharing/)
+- [Wine Retailer AB Testing](https://drive.google.com/file/d/1P-BoBBhvmDirX0x50DDeyIjxXcxPQxX3/view?usp=sharing/)
+- [Predict Beer Profit Case Study](https://drive.google.com/file/d/1qRCc8SCHjKtMi156ymOuEZpBSk_7mWTi/view?usp=sharing/)
 
 ---
 
